@@ -1,0 +1,1 @@
+The server type of 10.51.1.81 is dhcp. This can be found using %host -d 10.51.1.81 which sends a query to the server to return an answer of the domain. As well as the host domain in the ANSWER SECTION, directly below this is the AUTHORITY section which includes dhcp-dns.42.us.org.

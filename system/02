@@ -1,1 +1,1 @@
-ifconfig | grep "inet " | head -n2 | awk '{print$2}' | grep -v 127.0.0.1
+hostname new_name

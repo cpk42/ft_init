@@ -1,1 +1,1 @@
-ifconfig | grep ether | awk '{print$2}' | head -n4 | grep 1a
+In order to make the host name permanent, you must modify the /etc/hostnames file.

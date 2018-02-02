@@ -1,1 +1,1 @@
-nslookup slash16.org | grep Address | grep -v '10' | awk '{print$2}'
+service ssh status

@@ -1,1 +1,1 @@
-dig slash16.org @8.8.8.8
+ps aux | grep "sshd" | grep -v "sshd_config" | awk '{print$2}'

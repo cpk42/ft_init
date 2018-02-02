@@ -1,3 +1,3 @@
 To reroute the IP 46.19.122.85 to intra.42.fr, one must navigate to the /etc/hosts file and create a new entry of the IP, and the output of said IP would then be rerouted to intra.42.fr.
 
-//46.19.122.85	intra.42.fr
+#46.19.122.85	intra.42.fr

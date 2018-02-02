@@ -1,1 +1,1 @@
-ifconfig -l
+You can find the current installation of debian in the /etc/debian_version file.
